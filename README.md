@@ -2,6 +2,8 @@
 
 This projected was booted up in the latest awesome React framework (Next js).
 
+# To Run App use : npm run dev
+
 This project consists of :
  1. Header Nav-bar
  2. Sidebar that can be toggled (active and inactive)
